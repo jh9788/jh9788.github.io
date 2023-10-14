@@ -10,3 +10,13 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+sidebar-category:
+  - title: "카테고리"
+    children:
+      - title: "알고리즘"
+        url: "/algorithm"
+      - title: "Spring"
+        url:  "/spring"
+      - title: "프로그래밍언어"
+        url:  "/pl"
