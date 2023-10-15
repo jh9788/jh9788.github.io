@@ -13,6 +13,7 @@ main:
 
 sidebar-category:
   - title: "카테고리"
+    url:"/categories"
     children:
       - title: "알고리즘"
         url: "/algorithm"
