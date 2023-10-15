@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "JH9788"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "jh9788"
-description              : "An amazing website."
+description              : "jh9788의 개발 블로그"
 url                      : "https://jh9788.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ha Jonghun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Seoul"
+  email            : "gkwhdgns2@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
