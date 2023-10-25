@@ -1,9 +1,9 @@
 ---
-title: "알고리즘"
+title: "스프링"
 layout: archive
-permalink: /algorithm
+permalink: /spring
 ---
 
 
-{% assign posts = site.categories.algorithm %}
+{% assign posts = site.categories.spring %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
