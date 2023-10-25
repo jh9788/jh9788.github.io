@@ -12,7 +12,7 @@ main:
   #   url: /sitemap/
 
 sidebar-category:
-  - title: "카테고리"
+  - title: "문제풀이"
     children:
       - title: "알고리즘"
         url: "/algorithm"
@@ -20,3 +20,14 @@ sidebar-category:
         url:  "/spring"
       - title: "프로그래밍언어"
         url:  "/pl"
+      
+  - title: "Computer Science"
+    children:
+      - title: "데이터베이스"
+        url: "/database"
+      - title: "네트워크"
+        url: "/network"
+      - title: "운영체제"
+        url: "/os"
+
+
